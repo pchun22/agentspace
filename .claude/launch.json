@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "agentspace",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "PUBLIC_URL=https://silly-foxes-yell.loca.lt npm run dev"],
+      "port": 3000
+    }
+  ]
+}
